@@ -14,11 +14,3 @@ define Image/Build/Profile/Default
 	$(call Image/Build/Profile/VOCORE2,$(1))
 endef
 
-define Image/Build/Profile/MiwifiNano
-	$(call Image/Build/Profile/MIWIFI-NANO,$(1))
-endef
-
-define Image/Build/Profile/VOCORE2
-	$(call Image/Build/Profile/VOCORE2,$(1))
-endef
-
