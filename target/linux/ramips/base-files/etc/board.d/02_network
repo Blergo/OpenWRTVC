@@ -75,6 +75,7 @@ ramips_setup_interfaces()
 	mt7628|\
 	mzk-750dhp|\
 	mzk-w300nh2|\
+	vocore2 | \
 	oy-0001|\
 	pbr-m1|\
 	psg1208|\
